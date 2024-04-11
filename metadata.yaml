@@ -1,0 +1,53 @@
+_repo: Travels-and-discoveries-in-North-and-Central-Africa-b-Including-accounts-of-Tripoli-the-Sahar__73138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barth, Heinrich
+    aliases:
+    - Barth, Henry
+    - Barth, Johann Heinrich
+    - Abdul Karim
+    - Karim, Abdul
+    - Barth, H. (Heinrich)
+    - Barth, Henri
+    birthdate: 1821
+    deathdate: 1865
+    gutenberg_agent_id: '56955'
+    url: http://www.gutenberg.org/2009/agents/56955
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Heinrich_Barth
+    - https://en.wikipedia.org/wiki/Heinrich_Barth
+  editor:
+    agent_name: Bettany, G. T. (George Thomas)
+    alias: Bettany, George Thomas
+    birthdate: 1850
+    deathdate: 1891
+    gutenberg_agent_id: '33300'
+    url: http://www.gutenberg.org/2009/agents/33300
+    wikipedia: https://en.wikipedia.org/wiki/George_Thomas_Bettany
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73138'
+language: en
+pgterms:marc904: https://archive.org/details/travelsdiscoveri00bartuoft
+pgterms:marc905: 20210130053701barth
+pgterms:marc906: '1890'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bWard, Lock, and Co., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Minerva library of famous books.
+subjects:
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcsh 'Africa, North -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Travels and discoveries in North and Central Africa : $b Including accounts
+  of Tripoli, the Sahara, the remarkable kingdom of Bornu, and the countries around
+  Lake Chad'
+url: http://www.gutenberg.org/ebooks/73138
