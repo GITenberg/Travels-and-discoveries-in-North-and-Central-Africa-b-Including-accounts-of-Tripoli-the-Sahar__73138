@@ -1,5 +1,8 @@
 _repo: Travels-and-discoveries-in-North-and-Central-Africa-b-Including-accounts-of-Tripoli-the-Sahar__73138
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73138-h/images/cover.jpg
 creator:
   author:
     agent_name: Barth, Heinrich
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33300
     wikipedia: https://en.wikipedia.org/wiki/George_Thomas_Bettany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73138#Travels-and-discoveries-in-North-and-Central-Africa-b-Including-accounts-of-Tripoli-the-Sahar_
 gutenberg_issued: '2024-03-11'
 gutenberg_type: Text
 identifiers:
